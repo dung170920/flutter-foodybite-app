@@ -17,5 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
-- Register Screen
-  <img src="https://github.com/dung170920/flutter-foodybite-app/blob/main/assets/screenshot/register.png" />
+|  Register |   Login | Forgot Password |
+|-----------|---------|-----------------|
+
+<img src="https://github.com/dung170920/flutter-foodybite-app/blob/main/assets/screenshot/register.png" width="200"/>  <img src="https://github.com/dung170920/flutter-foodybite-app/blob/main/assets/screenshot/login.png" width="200"/>  <img src="https://github.com/dung170920/flutter-foodybite-app/blob/main/assets/screenshot/forgot-password.png" width="200"/>
