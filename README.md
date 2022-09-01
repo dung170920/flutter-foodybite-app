@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
-- ![Screenshot](Screenshot 2022-09-01 212334.png)
+- ![Register Screen](assets\screenshot\register.png)
